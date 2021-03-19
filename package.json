@@ -1,0 +1,15 @@
+{
+  "name": "algoritms",
+  "version": "1.0.0",
+  "description": "### Поиск места с наименьшим количеством участников",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

@@ -1,0 +1,5 @@
+generator.js
+.idea
+index.spec.js
+node_modules
+package-lock.json
